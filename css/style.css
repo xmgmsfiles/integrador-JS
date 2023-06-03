@@ -33,11 +33,13 @@ header
 {
     color: grey;
     padding-top: 1%;
+    text-decoration: none;
 }
 
 .items:hover
 {
     color: white;
+    text-decoration: none;
 }
 
 #comprar
@@ -199,4 +201,10 @@ footer
     margin-right: 10%;
     width: 100%;
     justify-content: space-around;
+}
+
+.link
+{
+    color: white;
+    text-decoration: none;
 }
